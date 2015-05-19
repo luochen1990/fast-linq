@@ -1,13 +1,13 @@
 {
-  "name": "fast-linq",
+  "name": "linq-lite",
   "version": "0.0.1",
   "description": "fast & lite LINQ implementation",
   "author": "luochen1990",
   "license": "MIT",
-  "homepage": "http://github.com/luochen1990/fast-linq.js",
+  "homepage": "http://github.com/luochen1990/linq-lite.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:luochen1990/fast-linq.js.git"
+    "url": "git@github.com:luochen1990/linq-lite.js.git"
   },
   "keywords": [
     "linq",
