@@ -1,4 +1,4 @@
-require 'coffee-mate/global'
+require 'coffee-mate/src/global'
 
 isA = (cls) ->
 	if cls is Number
